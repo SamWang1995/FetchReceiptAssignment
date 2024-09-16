@@ -1,4 +1,4 @@
-Running the Application:
+Running the Application Locally:
 
 1. Make sure Maven is installed (`brew install maven`)
 2. Build the project: `mvn clean install`
