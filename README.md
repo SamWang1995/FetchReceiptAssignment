@@ -6,6 +6,5 @@ Running the Application:
 4. Use a tool like Postman to test the endpoints
 
 Running on Docker:
-1. build package: `mvn clean package`
-2. Build Docker image docker: `build -t receipt-application .`
-3. Run in Docker Container: `docker run -p 8080:8080 receipt-application`
+1. Build Docker image docker: `build -t receipt-application .`
+2. Run in Docker Container: `docker run -p 8080:8080 receipt-application`
